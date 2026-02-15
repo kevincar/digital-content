@@ -36,7 +36,6 @@ The Temple provides two general functions:
 Ordinances associated with a covenant require repentance—a change of heart.
 
 Consider the [stages of change](https://smartrecovery.org/the-stages-of-change)
-- In the medical field, and addiction therapy, individuals who do not believe in the need to make changes in personal behavior, though they are admonished to quit, are committed to a treatment plan.
 
 [D&C 121:45](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=eng&id=p45#p45)
 
