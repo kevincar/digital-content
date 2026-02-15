@@ -31,7 +31,7 @@ The Temple provides two general functions:
 [Gospel Library Definition](https://www.churchofjesuschrist.org/study/manual/gospel-topics/covenant?lang=eng) \
 [Strong'H ane Hebrew Lexicon](https://www.blueletterbible.org/lexicon/h1285)
 
-> <span style="font-family: 'New Peninim MT'">&#xFB31&#x05B0&#x05E8&#x05B4&#x05EA</span> is strictly nothing more than an eating together, banquet, since among Orientals, to eat together is almost the same as to make a covenant of friendship. The Hebrews too were accustomed to eat together when entering into a covenant (see Gen, 31: 54); and in this way we obtain an explanation of the word. It is used of a covenant entered into between nations (Josh. 6:9); between individuals and friends, (1 Sa. 18:3; 23:18); of a marriage covenant (Mal. 2:14)
+><span lang="he" dir="rtl" style="font-family: 'New Peninim MT'; unicode-bidi: isolate;">&#xFB31;&#x05B0;&#x05E8;&#x05B4;&#x05EA;</span> is strictly nothing more than an eating together, banquet, since among Orientals, to eat together is almost the same as to make a covenant of friendship. The Hebrews too were accustomed to eat together when entering into a covenant (see Gen, 31: 54); and in this way we obtain an explanation of the word. It is used of a covenant entered into between nations (Josh. 6:9); between individuals and friends, (1 Sa. 18:3; 23:18); of a marriage covenant (Mal. 2:14)
 
 Ordinances associated with a covenant require repentance—a change of heart.
 
