@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/church/temple-preparation/1-the-plan-of-salvation/"}
 ---
 
-
 # Resources
 [churchofjesuschrist.org/temples](https://churchofjesuschrist.org/temples):
 - [Preparing for your endowment](https://www.churchofjesuschrist.org/temples/prepare-for-your-temple-visit?lang=eng)
