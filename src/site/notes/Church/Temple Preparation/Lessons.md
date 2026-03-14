@@ -11,7 +11,7 @@ Every 1st and 3rd Sunday after church
 | January 25, 2026  | Lesson [[Church/Temple Preparation/1 - The Plan of Salvation\|1 - The Plan of Salvation]]       |
 | February 1, 2026  | Stake Conference - No Lesson               |
 | February 15, 2026 | Lesson [[Church/Temple Preparation/2 - Worthy to Enter\|2 - Worthy to Enter]]             |
-| March 1, 2026     | Lesson [[Church/Temple Preparation/3- Temple Work Brings Blessings\|3- Temple Work Brings Blessings]] |
+| March 1, 2026     | Lesson [[Church/Temple Preparation/3 - Temple Work Brings Blessings\|3 - Temple Work Brings Blessings]] |
 | March 15, 2026    | Lesson 4 - Ordinances and Covenants        |
 | April 5, 2026     | General Conference - No Lesson             |
 | April 19, 2026    | Lesson 5 - Learning through symbols        |
