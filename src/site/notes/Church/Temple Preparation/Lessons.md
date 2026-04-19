@@ -14,6 +14,6 @@ Every 1st and 3rd Sunday after church
 | March 1, 2026     | Lesson [[Church/Temple Preparation/3 - Temple Work Brings Blessings\|3 - Temple Work Brings Blessings]]              |
 | March 15, 2026    | Lesson [[Church/Temple Preparation/4 - Receiving Temple Ordinances and Covenants\|4 - Receiving Temple Ordinances and Covenants]] |
 | April 5, 2026     | General Conference - No Lesson                           |
-| April 19, 2026    | Lesson 5 - Learning through symbols                      |
+| April 19, 2026    | Lesson [[Church/Temple Preparation/5 - Learning from the Lord through Symbols\|5 - Learning from the Lord through Symbols]]    |
 | May 3, 2026       | Lesson 6 - Preparing to enter                            |
 | May 17, 2026      | Lesson 7 - Continued attendance                          |
