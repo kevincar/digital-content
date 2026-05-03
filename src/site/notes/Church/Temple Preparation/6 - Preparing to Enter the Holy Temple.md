@@ -36,7 +36,6 @@ Why is humility so important as we serve and learn in the temple?
 What does this passage teach about the importance of humility?
 How could you apply this counsel to attending the temple for the first time?
 
-<!--
 ## 3. Each person should understand that receiving temple ordinances and covenants is essential to gaining eternal life.
 
 President Harold B. Lee said:
@@ -66,6 +65,7 @@ Opportunities to mediate
 
 Prayer Roll: We can submit the names of those who have special needs so that those who attend the temple can unite their faith and prayers in behalf of these people.
 
+<!--
 # Special Preparations for the First Temple Visit
 
 - Obtain A Temple Recommend - Schedule a visit with the Bishop via his Executive Secretary 
