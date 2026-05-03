@@ -54,6 +54,7 @@ Those who have participated in the temple ceremony are privileged to wear the ga
 > 
 > The principles of modesty and keeping the body appropriately covered are implicit in the covenant and should govern the nature of all clothing worn. Endowed members of the Church wear the garment as a reminder of the sacred covenants they have made with the Lord and also as a protection against temptation and evil. How it is worn is an outward expression of an inward commitment to follow the Savior.
 
+<!--
 ## 5. Each person should be prepared for personal and sacred worship.
 
 Opportunities to mediate
@@ -65,7 +66,6 @@ Opportunities to mediate
 
 Prayer Roll: We can submit the names of those who have special needs so that those who attend the temple can unite their faith and prayers in behalf of these people.
 
-<!--
 # Special Preparations for the First Temple Visit
 
 - Obtain A Temple Recommend - Schedule a visit with the Bishop via his Executive Secretary 
