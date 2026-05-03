@@ -61,9 +61,8 @@ Opportunities to mediate
 - During: Between Steps
 - After: In the celestial room
 
-> Temples are places of personal revelation. When I have been weighed down by a problem or a difficulty, I have gone to the House of the Lord with a prayer in my heart for answers. These answers have come in clear and unmistakable ways<a href="https://www.churchofjesuschrist.org/study/ensign/1985/08/what-i-hope-you-will-teach-your-children-about-the-temple?lang=eng&id=p24#p24"><sup>4</sup></a>.
+> Temples are places of personal revelation. When I have been weighed down by a problem or a difficulty, I have gone to the House of the Lord with a prayer in my heart for answers. These answers have come in clear and unmistakable ways <a href="https://www.churchofjesuschrist.org/study/ensign/1985/08/what-i-hope-you-will-teach-your-children-about-the-temple?lang=eng&id=p24#p24"><sup>4</sup></a>.
 
-<!--
 Prayer Roll: We can submit the names of those who have special needs so that those who attend the temple can unite their faith and prayers in behalf of these people.
 
 # Special Preparations for the First Temple Visit
@@ -81,4 +80,3 @@ Prayer Roll: We can submit the names of those who have special needs so that tho
 			- 2-3 hours for the live ordinance:  Includes both Initiatory & endowment
 	- Attire: Dress as you would for Sunday Meetings
 	- Sealing Work. If you plan to do sealing work for your deceased ancestors, you should take completed family group records with you to the temple. If you and your spouse are to be sealed or if you are going to have children sealed to you, you must have your own family group record. If you are going to be married, you will need to comply with all local civil laws and bring a valid marriage license with you. Read carefully the Member’s Guide to Temple and Family History Work (34697) for more detailed information about how to provide temple ordinances for both the living and the dead. You may also contact the temple recorder at the temple you are planning to visit.
--->
