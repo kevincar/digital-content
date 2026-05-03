@@ -6,8 +6,10 @@
 # Opening
 Prayer: By Invitation
 Questions?
+****
 ## Resources
 [Temple Preparation Reading](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng)
+
 # Class Lesson
 
 # Each Person Should Prepare for the Temple
@@ -65,16 +67,16 @@ Prayer Roll: We can submit the names of those who have special needs so that tho
 
 # Special Preparations for the First Temple Visit
 
-- [ ] Obtain A Temple Recommend - Schedule a visit with the Bishop via his Executive Secretary 
-- [ ] Planning & Scheduling
-	- [x] Ordinance Preparation - This course :) 
-	- [ ] Purchase a set of [temple clothing](https://store.churchofjesuschrist.org/new-category/clothing/5637160336.c)
+-  Obtain A Temple Recommend - Schedule a visit with the Bishop via his Executive Secretary 
+-  Planning & Scheduling
+	- Ordinance Preparation - This course :) 
+	- Purchase a set of [temple clothing](https://store.churchofjesuschrist.org/new-category/clothing/5637160336.c)
 		- General Clothing: Discuss with Bishop/secretary if you do not have access to the site linked above to purchase.
 		- Temple Garments. You will need to buy one or two pairs of temple garments before you enter the temple. Do not put them on before you go to the temple. After receiving your endowment and when you are satisfied that you have identified the desirable size and fabric, you can purchase additional pairs of garments. Some people like to wash their initial pair of garments to make sure they fit comfortably before purchasing others. 
-	- [ ] Who will be your escort: All who are going to the temple for the first time may have an escort to accompany them. This can be a relative or friend of the same gender who has previously been to the temple, or one of the temple workers may assist. Workers in the temple will offer friendly guidance at all times.
-	- [ ] Ask Bishop / Executive Secretary to help schedule an appointment
-		- [ ] Plan for timing 
+	- Who will be your escort: All who are going to the temple for the first time may have an escort to accompany them. This can be a relative or friend of the same gender who has previously been to the temple, or one of the temple workers may assist. Workers in the temple will offer friendly guidance at all times.
+	- Ask Bishop / Executive Secretary to help schedule an appointment
+		- Plan for timing 
 			- 30-60 min drive to the temple
 			- 2-3 hours for the live ordinance:  Includes both Initiatory & endowment
-	- [ ] Attire: Dress as you would for Sunday Meetings
-	- [ ] Sealing Work. If you plan to do sealing work for your deceased ancestors, you should take completed family group records with you to the temple. If you and your spouse are to be sealed or if you are going to have children sealed to you, you must have your own family group record. If you are going to be married, you will need to comply with all local civil laws and bring a valid marriage license with you. Read carefully the Member’s Guide to Temple and Family History Work (34697) for more detailed information about how to provide temple ordinances for both the living and the dead. You may also contact the temple recorder at the temple you are planning to visit.
+	- Attire: Dress as you would for Sunday Meetings
+	- Sealing Work. If you plan to do sealing work for your deceased ancestors, you should take completed family group records with you to the temple. If you and your spouse are to be sealed or if you are going to have children sealed to you, you must have your own family group record. If you are going to be married, you will need to comply with all local civil laws and bring a valid marriage license with you. Read carefully the Member’s Guide to Temple and Family History Work (34697) for more detailed information about how to provide temple ordinances for both the living and the dead. You may also contact the temple recorder at the temple you are planning to visit.
