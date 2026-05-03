@@ -7,7 +7,6 @@
 Prayer: By Invitation
 Questions?
 
-<!--
 ## Resources
 [Temple Preparation Reading](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng)
 
@@ -37,6 +36,7 @@ Why is humility so important as we serve and learn in the temple?
 What does this passage teach about the importance of humility?
 How could you apply this counsel to attending the temple for the first time?
 
+<!--
 ## 3. Each person should understand that receiving temple ordinances and covenants is essential to gaining eternal life.
 
 President Harold B. Lee said:
